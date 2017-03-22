@@ -52,7 +52,7 @@ public class WebviewActivity extends Activity {
             }
         });
 
-        webView.loadUrl("https://app.morph.ai/livechat/");
+        webView.loadUrl("https://app.morph.ai/livechat/demo/?id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImlkIjoiNTgzNDE3YTRmMzgzZjg1MzkzOTliNjkxIn0.eyJzY29wZSI6ImFwaSJ9.JorE-rBX2cTCf2riYycAKIwz-IG5_ZZ5uqIgHkr6yfE&mode=app");
     }
 
 }
